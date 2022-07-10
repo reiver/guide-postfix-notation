@@ -42,9 +42,9 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ## Programming
 
-13. [PUSH Command](chapters/push_opcode/README.md)
+13. [PUSH Command](chapters/push_cmd/README.md)
 14. PUSH Command Documentation
-15. [LIMN Command](chapters/limn_opcode/README.md)
+15. [LIMN Command](chapters/limn_cmd/README.md)
 16. LIMN Command Documentation
 17. PUSH Command Unit Tests
 
@@ -107,8 +107,8 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-41. PUSH Operation Code
-42. LIMN Operation Code
+41. [PUSH Operation Code](chapters/push_opcode/README.md)
+42. [LIMN Operation Code](chapters/limn_opcode/README.md)
 43. PUSH Operation Code Unit Tests
 44. ADD2 Operation Code
 45. ADD2 Operation Code Unit Tests
