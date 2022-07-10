@@ -29,7 +29,7 @@ import (
 	"io"
 )
 
-type StackMachine struct {
+type Processor struct {
 	stack lifo.Stack[int64]
 	out io.Writer
 }
