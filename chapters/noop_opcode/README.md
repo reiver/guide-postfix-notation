@@ -5,7 +5,9 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 ```go
-func (receiver *Processor) NoOp() error {
-	//@TODO
-}
+package post64
+
+const (
+	NOOP = 0x00000000
+)
 ```
