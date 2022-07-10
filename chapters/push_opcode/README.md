@@ -3,9 +3,10 @@
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
-package post64
 
 ```go
+package post64
+
 const (
 	PUSH = 0x0000000f
 )
