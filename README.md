@@ -109,53 +109,59 @@ This is a guide on **postfix notation** and **stack machines**.
 
 41. PUSH Operation Code
 42. LIMN Operation Code
-43. ADD2 Operation Code
-44. SUBT2 Operation Code
-45. TBUS2 Operation Code
-46. MULT2 Operation Code
-47. DIV2 Operation Code
+43. PUSH Operation Code Unit Tests
+44. ADD2 Operation Code
+45. ADD2 Operation Code Unit Tests
+46. SUBT2 Operation Code
+47. SUBT2 Operation Code Unit Tests
+48. TBUS2 Operation Code
+49. TBUS2 Operation Code Unit Tests
+50. MULT2 Operation Code
+51. MULT2 Operation Code Unit Tests
+52. DIV2 Operation Code
+53. DIV2 Operation Code Unit Tests
 
 ### Programming
 
-48. POP Command
-49. POP Command Unit Tests
-50. POP Command Documention
-51. [POP Operation Code](chapters/pop_opcode/README.md)
-52. POP Operation Code Unit Tests
-53. POP Operation Code Documentation
+54. POP Command
+55. POP Command Unit Tests
+56. POP Command Documention
+57. [POP Operation Code](chapters/pop_opcode/README.md)
+58. POP Operation Code Unit Tests
+59. POP Operation Code Documentation
 
 ### Programming
 
-54. HALT Command
-55. HALT Command Unit Tests
-56. HALT Command Documention
-57. [HALT Operation Code](chapters/halt_opcode/README.md)
-58. HALT Operation Code Unit Tests
-59. HALT Operation Code Documentation
+60. HALT Command
+61. HALT Command Unit Tests
+62. HALT Command Documention
+63. [HALT Operation Code](chapters/halt_opcode/README.md)
+64. HALT Operation Code Unit Tests
+65. HALT Operation Code Documentation
 
 ### Programming
 
-60. NOOP Command
-61. NOOP Command Unit Tests
-62. NOOP Command Documention
-63. [NOOP Operation Code](chapters/noop_opcode/README.md)
-64. NOOP Operation Code Unit Tests
-65. NOOP Operation Code Documentation
+66. NOOP Command
+67. NOOP Command Unit Tests
+68. NOOP Command Documention
+69. [NOOP Operation Code](chapters/noop_opcode/README.md)
+70. NOOP Operation Code Unit Tests
+71. NOOP Operation Code Documentation
 
 ### Programming
 
-66. MIN Command
-67. MIN Command Unit Tests
-68. MIN Command Documention
-69. [MIN Operation Code](chapters/min_opcode/README.md)
-70. MIN Unit Tests
-71. MIN Documentation
+72. MIN Command
+73. MIN Command Unit Tests
+74. MIN Command Documention
+75. [MIN Operation Code](chapters/min_opcode/README.md)
+76. MIN Operation Code Unit Tests
+77. MIN Operation Code Documentation
 
 ### Programming
 
-72. MAX Command
-73. MAX Command Unit Tests
-74. MAX Command Documention
-75. [MAX Operation Code](chapters/max_opcode/README.md)
-76. MAX Unit Tests
-77. MAX Documentation
+78. MAX Command
+79. MAX Command Unit Tests
+80. MAX Command Documention
+81. [MAX Operation Code](chapters/max_opcode/README.md)
+82. MAX Operation Code Unit Tests
+83. MAX Operation Code Documentation
