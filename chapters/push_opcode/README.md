@@ -5,7 +5,7 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 ```go
-func (receiver *StackMachine) Push(value int64) error {
+func (receiver *Processor) Push(value int64) error {
 	//@TODO
 }
 ```
