@@ -1,17 +1,13 @@
-# MIN Command ([Postfix Notation Guide](../../README.md))
+# MAX Operation Code ([Postfix Notation Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
 
-In this chapter you are going to extend your **processor** to support the **MIN** command.
-
-You are going to accomplish this by implementing the following method:
-
 ```go
-func (receiver *Processor) Min() error {
-	//@TODO
-}
-```
+package post64
 
-Of course, you will replace the `//@TODO` with actual code to make this work.
+const (
+	MIN = //@TODO
+)
+```
