@@ -54,37 +54,37 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-19. POP Operation Code
+19. [POP Operation Code](chapters/pop_opcode/README.md)
 20. POP Unit Tests
 21. POP Documentation
 
 ### Programming
 
-22. HALT Operation Code
+22. [HALT Operation Code](chapters/halt_opcode/README.md)
 23. HALT Unit Tests
 24. HALT Documentation
 
 ### Programming
 
-25. NOOP Operation Code
+25. [NOOP Operation Code](chapters/noop_opcode/README.md)
 26. NOOP Unit Tests
 27. NOOP Documentation
 
 ### Programming
 
-28. MIN Operation Code
+28. [MIN Operation Code](chapters/min_opcode/README.md)
 29. MIN Unit Tests
 30. MIN Documentation
 
 ### Programming
 
-31. MAX Operation Code
+31. [MAX Operation Code](chapters/max_opcode/README.md)
 32. MAX Unit Tests
 33. MAX Documentation
 
 ### Programming
 
-34. ADD2 Operation Code
+34. [ADD2 Operation Code](chapters/add2_opcode/README.md)
 35. ADD2 Unit Tests
 36. ADD2 Documentation
 
@@ -108,6 +108,6 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-46. DIV2 Operation Code
+46. [DIV2 Operation Code](chapters/div2_opcode/README.md)
 47. DIV2 Unit Tests
 48. DIV2 Documentation
