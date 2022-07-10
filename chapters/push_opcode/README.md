@@ -3,9 +3,10 @@
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
+package post64
 
 ```go
-func (receiver *Processor) Push(value int64) error {
-	//@TODO
-}
+const (
+	PUSH = 0x0000000f
+)
 ```
