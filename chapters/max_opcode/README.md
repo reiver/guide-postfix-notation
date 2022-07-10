@@ -5,7 +5,7 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 ```go
-func (receiver *StackMachine) Max() error {
+func (receiver *Processor) Max() error {
 	//@TODO
 }
 ```
