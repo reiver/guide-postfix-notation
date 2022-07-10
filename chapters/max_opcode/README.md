@@ -1,11 +1,13 @@
-# MAX Operation Code ([Postfix Notation Guide](../../README.md))
+# PUSH Operation Code ([Postfix Notation Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
 
 ```go
-func (receiver *Processor) Max() error {
-	//@TODO
-}
+package post64
+
+const (
+	PUSH = //@TODO
+)
 ```
