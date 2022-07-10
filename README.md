@@ -123,7 +123,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-54. POP Command
+54. [POP Command](chapters/pop_cmd/README.md)
 55. POP Command Unit Tests
 56. POP Command Documention
 57. [POP Operation Code](chapters/pop_opcode/README.md)
@@ -132,7 +132,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-60. HALT Command
+60. [HALT Command](chapters/halt_cmd/README.md)
 61. HALT Command Unit Tests
 62. HALT Command Documention
 63. [HALT Operation Code](chapters/halt_opcode/README.md)
@@ -150,7 +150,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-72. MIN Command
+72. [MIN Command](chapters/max_cmd/README.md)
 73. MIN Command Unit Tests
 74. MIN Command Documention
 75. [MIN Operation Code](chapters/min_opcode/README.md)
@@ -159,7 +159,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-78. MAX Command
+78. [MAX Command](chapters/max_cmd/README.md)
 79. MAX Command Unit Tests
 80. MAX Command Documention
 81. [MAX Operation Code](chapters/max_opcode/README.md)
