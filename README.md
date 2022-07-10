@@ -141,7 +141,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-66. NOOP Command
+66. [NOOP Command](chapters/push_cmd/README.md)
 67. NOOP Command Unit Tests
 68. NOOP Command Documention
 69. [NOOP Operation Code](chapters/noop_opcode/README.md)
