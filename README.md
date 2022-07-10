@@ -31,8 +31,8 @@ This is a guide on **postfix notation** and **stack machines**.
 ### Programming
 
 7. [Stack Machine](chapters/stack_machine/README.md)
-8. PUSH Operation Code
-9. PRINT Operation Code
+8. [PUSH Operation Code](chapters/push_opcode/README.md)
+9. [LIMN Operation Code](chapters/limn_opcode/README.md)
 10. PUSH Unit Tests
 
 ### Programming
