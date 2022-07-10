@@ -5,7 +5,7 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 ```go
-func (receiver *StackMachine) Limn(value int64) error {
+func (receiver *StackMachine) Limn() error {
 	//@TODO
 }
 ```
