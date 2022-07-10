@@ -33,39 +33,39 @@ This is a guide on **postfix notation** and **stack machines**.
 7. Stack Machine
 8. PUSH Operation Code
 9. PRINT Operation Code
-10. Unit Tests
+10. PUSH Unit Tests
 
 ### Programming
 
 11. POP Operation Code
-12. Unit Tests
+12. POP Unit Tests
 
 ### Programming
 
 13. HALT Operation Code
-14. Unit Tests
+14. HALT Unit Tests
 
 ### Programming
 
 15. NOOP Operation Code
-16. Unit Tests
+16. NOOP Unit Tests
 
 ### Programming
 
 17. ADD2 Operation Code
-18. Unit Tests
+18. ADD2 Unit Tests
 
 ### Programming
 
 19. SUBTRACT2 Operation Code
-20. Unit Tests
+20. SUBTRACT2 Unit Tests
 
 ### Programming
 
 21. MULTIPLY2 Operation Code
-22. Unit Tests
+22. MULTIPLY2 Unit Tests
 
 ### Programming
 
 23. DIVIDE2 Operation Code
-24. Unit Tests
+24. DIVIDE2 Unit Tests
