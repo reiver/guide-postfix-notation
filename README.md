@@ -150,7 +150,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-72. [MIN Command](chapters/max_cmd/README.md)
+72. [MIN Command](chapters/min_cmd/README.md)
 73. MIN Command Unit Tests
 74. MIN Command Documention
 75. [MIN Operation Code](chapters/min_opcode/README.md)
