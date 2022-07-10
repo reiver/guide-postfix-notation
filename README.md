@@ -24,63 +24,90 @@ This is a guide on **postfix notation** and **stack machines**.
 
 5. Vintage Postfix Notation Calculators
 
-### Programming
+### Questions
 
-6. Postfix Notation Calculator
-
-### Programming
-
-7. [Stack Machine](chapters/stack_machine/README.md)
-8. [PUSH Operation Code](chapters/push_opcode/README.md)
-9. [LIMN Operation Code](chapters/limn_opcode/README.md)
-10. PUSH Unit Tests
+6. Questions №2
 
 ### Programming
 
-11. POP Operation Code
-12. POP Unit Tests
+7. Postfix Notation Calculator
 
 ### Programming
 
-13. HALT Operation Code
-14. HALT Unit Tests
+8. [Stack Machine](chapters/stack_machine/README.md)
+9. [Repository "go-post64"](chapters/repository_go-post64/README.md)
+10. [Package "post64"](chapters/package_go-post64/README.md)
 
 ### Programming
 
-15. NOOP Operation Code
-16. NOOP Unit Tests
+11. License
+12. README.md
+13. Documentation
+
+## Programming
+
+14. [PUSH Operation Code](chapters/push_opcode/README.md)
+15. PUSH Documentation
+16. [LIMN Operation Code](chapters/limn_opcode/README.md)
+17. LIMN Documentation
+18. PUSH Unit Tests
 
 ### Programming
 
-17. MIN Operation Code
-18. MIN Unit Tests
+19. POP Operation Code
+20. POP Unit Tests
+21. POP Documentation
 
 ### Programming
 
-19. MAX Operation Code
-20. MAX Unit Tests
+22. HALT Operation Code
+23. HALT Unit Tests
+24. HALT Documentation
 
 ### Programming
 
-21. ADD2 Operation Code
-22. ADD2 Unit Tests
+25. NOOP Operation Code
+26. NOOP Unit Tests
+27. NOOP Documentation
 
 ### Programming
 
-23. SUBT2 Operation Code
-24. SUBT2 Unit Tests
+28. MIN Operation Code
+29. MIN Unit Tests
+30. MIN Documentation
 
 ### Programming
 
-25. TBUS2 Operation Code
-26. TBUS Unit Tests
+31. MAX Operation Code
+32. MAX Unit Tests
+33. MAX Documentation
 
 ### Programming
 
-27. MULT2 Operation Code
-28. MULT2 Unit Tests
+34. ADD2 Operation Code
+35. ADD2 Unit Tests
+36. ADD2 Documentation
 
 ### Programming
 
-29. DIV2 Operation Code
-30. DIV2 Unit Tests
+37. SUBT2 Operation Code
+38. SUBT2 Unit Tests
+39. SUBT2 Documentation
+
+### Programming
+
+40. TBUS2 Operation Code
+41. TBUS Unit Tests
+42. TBUS Documentation
+
+### Programming
+
+43. MULT2 Operation Code
+44. MULT2 Unit Tests
+45. MULT2 Documentation
+
+### Programming
+
+46. DIV2 Operation Code
+47. DIV2 Unit Tests
+48. DIV2 Documentation
