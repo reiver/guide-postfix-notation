@@ -52,20 +52,35 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-17. ADD2 Operation Code
-18. ADD2 Unit Tests
+17. MIN Operation Code
+18. MIN Unit Tests
 
 ### Programming
 
-19. SUBTRACT2 Operation Code
-20. SUBTRACT2 Unit Tests
+19. MAX Operation Code
+20. MAX Unit Tests
 
 ### Programming
 
-21. MULTIPLY2 Operation Code
-22. MULTIPLY2 Unit Tests
+21. ADD2 Operation Code
+22. ADD2 Unit Tests
 
 ### Programming
 
-23. DIVIDE2 Operation Code
-24. DIVIDE2 Unit Tests
+23. SUBT2 Operation Code
+24. SUBT2 Unit Tests
+
+### Programming
+
+25. TBUS2 Operation Code
+26. TBUS Unit Tests
+
+### Programming
+
+27. MULT2 Operation Code
+28. MULT2 Unit Tests
+
+### Programming
+
+29. DIV2 Operation Code
+30. DIV2 Unit Tests
