@@ -30,7 +30,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-7. [Stack Machine](chapters/stack-machine/README.md)
+7. [Stack Machine](chapters/stack_machine/README.md)
 8. PUSH Operation Code
 9. PRINT Operation Code
 10. PUSH Unit Tests
