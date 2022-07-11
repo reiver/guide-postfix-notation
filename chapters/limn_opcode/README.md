@@ -5,7 +5,9 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 ```go
-func (receiver *Processor) Limn() error {
-	//@TODO
-}
+package post64
+
+const (
+	LIMN = //@TODO
+)
 ```
