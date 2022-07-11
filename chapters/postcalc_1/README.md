@@ -110,3 +110,11 @@ USER:
 ```
 
 (At this point, the application exits.)
+
+## Check-List
+
+* [ ] Did you `import` your `go-post64` repository, into your application?
+* [ ] Did you make use of your `post64` package, in your application?
+* [ ] Did you make use of the `post64.Processor.Push()` method?
+* [ ] Did you make use of the `post64.Processor.Add2()` method?
+* [ ] Did you make use of the `post64.Processor.Limn()` method?
