@@ -38,80 +38,94 @@ If “/QUIT” is entered is entered in the **REPL**, then your **application** 
 
 An example session, using your `postcalc` application, might look like this:
 
-USER:
+When the application first starts the _stack_ is empty — `[]`
+
+**USER input:**
 ```
 12345
 ```
 
-(At this point, what is on the _stack_ is `[12345]`)
+At this point, what is on the _stack_ is — `[12345]`
 
-USER:
+**USER input:**
 ```
 2222
 ```
 
-(At this point, what is on the _stack_ is `[12345 2222]`)
+At this point, what is on the _stack_ is — `[12345 2222]`
+
+(The top of the stack is on the right.)
 
 
-USER:
+**USER input:**
 ```
 111
 ```
 
-(At this point, what is on the _stack_ is `[12345 2222 111]`)
+At this point, what is on the _stack_ is — `[12345 2222 111]`
 
-USER:
+**USER input:**
 ```
 +
 ```
 
-(At this point, what is on the _stack_ is `[12345 2333]`. The `2333` on there is the result of `2333 = 2222 + 111`.)
+At this point, what is on the _stack_ is — `[12345 2333]`
 
-USER:
+Notice that there `2222` and `111` were removed from the top of the stack, and they were replaced by a `2333`.
+
+The `2333` on there is the result of `2333 = 2222 + 111`
+
+**USER input:**
 ```
 =
 ```
 
-APPLICATION:
+**APPLICATION output:**
 ```
 2333
 ```
 
-(At this point, what is on the _stack_ is `[12345]`)
+At this point, what is on the _stack_ is — `[12345]`
 
-USER:
+Notice that the `2333` was removed from the _stack_ when it was outputted by the application.
+
+**USER input:**
 ```
 33
 ```
 
-(At this point, what is on the _stack_ is `[12345 33]`)
+At this point, what is on the _stack_ is — `[12345 33]`
 
-USER:
+**USER input:**
 ```
 +
 ```
 
-(At this point, what is on the _stack_ is `[12378]` The `2333` on there is the result of `12378 = 12345 + 33`.)
+At this point, what is on the _stack_ is — `[12378]`
+
+The `2333` on there is the result of `12378 = 12345 + 33`.
 
 
-USER:
+**USER input:**
 ```
 =
 ```
 
-APPLICATION:
+**APPLICATION output:**
 ```
 12378
 ```
 
-(At this point, what is on the _stack_ is `[]`)
+At this point, what is on the _stack_ is — `[]`
 
-USER:
+Notice that the `2333` was removed from the _stack_ when it was outputted by the application.
+
+**USER input:**
 ```
 /QUIT
 ```
 
-(At this point, the application exits.)
+At this point, the application exits.
 
 ## Check-List
 
