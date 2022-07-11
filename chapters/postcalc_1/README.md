@@ -71,7 +71,7 @@ At this point, what is on the _stack_ is — `[12345 2222 111]`
 
 At this point, what is on the _stack_ is — `[12345 2333]`
 
-Notice that there `2222` and `111` were removed from the top of the stack, and they were replaced by a `2333`.
+Notice that the `2222` and `111` were removed from the top of the stack, and they were replaced by `2333`.
 
 The `2333` on there is the result of `2333 = 2222 + 111`
 
@@ -103,7 +103,9 @@ At this point, what is on the _stack_ is — `[12345 33]`
 
 At this point, what is on the _stack_ is — `[12378]`
 
-The `2333` on there is the result of `12378 = 12345 + 33`.
+Notice that the `12345` and `33` were removed from the top of the stack, and they were replaced by `12378`.
+
+The `12378` on there is the result of `12378 = 12345 + 33`.
 
 
 **USER input:**
@@ -118,7 +120,7 @@ The `2333` on there is the result of `12378 = 12345 + 33`.
 
 At this point, what is on the _stack_ is — `[]`
 
-Notice that the `2333` was removed from the _stack_ when it was outputted by the application.
+Notice that the `12378` was removed from the _stack_ when it was outputted by the application.
 
 **USER input:**
 ```
