@@ -63,7 +63,7 @@ USER:
 +
 ```
 
-(At this point, what is on the _stack_ is `[12345 2333]`)
+(At this point, what is on the _stack_ is `[12345 2333]`. The `2333` on there is the result of `2333 = 2222 + 111`.)
 
 USER:
 ```
@@ -89,7 +89,7 @@ USER:
 +
 ```
 
-(At this point, what is on the _stack_ is `[12378]`)
+(At this point, what is on the _stack_ is `[12378]` The `2333` on there is the result of `12378 = 12345 + 33`.)
 
 
 USER:
