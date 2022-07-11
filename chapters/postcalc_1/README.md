@@ -34,7 +34,9 @@ If an equal-sign (i.e., “=”) is entered in the **REPL**, then your **applica
 
 If “/QUIT” is entered is entered in the **REPL**, then your **application** will exit.
 
-An example session might look like this:
+## Example Session
+
+An example session, using your `postcalc` application, might look like this:
 
 USER:
 ```
