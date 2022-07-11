@@ -12,9 +12,9 @@ Before you do this chapter you will need to complete the [REPL Guide](https://gi
 
 In this chapter you are going to use the `post64` package you have been creating an create an text-based **application**.
 
-This text-based **application** will be a simple postfix notation calculator.
+This text-based **application** will be a simple postfix notation calculator, that works similar to the _vintage postfix notation calculator_ described in a previous chapter.
 
-You will call it — `postcalc`
+You will call it your application — `postcalc`
 
 ## Repository `postcalc`
 
@@ -37,49 +37,76 @@ If “/DIE” is entered is entered in the **REPL**, then your **application** w
 An example session might look like this:
 
 USER:
-> 12345
+```
+12345
+```
 
-(A this point, what is on the _stack_ is `[12345]`)
-
-USER:
-> 2222
-
-(A this point, what is on the _stack_ is `[12345 2222]`)
-
+(At this point, what is on the _stack_ is `[12345]`)
 
 USER:
-> 111
+```
+2222
+```
 
-(A this point, what is on the _stack_ is `[12345 2222 111]`)
+(At this point, what is on the _stack_ is `[12345 2222]`)
 
-USER:
-> +
-
-(A this point, what is on the _stack_ is `[12345 2333]`)
 
 USER:
-> =
+```
+111
+```
+
+(At this point, what is on the _stack_ is `[12345 2222 111]`)
+
+USER:
+```
++
+```
+
+(At this point, what is on the _stack_ is `[12345 2333]`)
+
+USER:
+```
+=
+```
 
 APPLICATION:
-> 2333
+```
+2333
+```
 
-(A this point, what is on the _stack_ is `[12345]`)
-
-USER:
-> 33
-
-(A this point, what is on the _stack_ is `[12345 33]`)
+(At this point, what is on the _stack_ is `[12345]`)
 
 USER:
-> +
+```
+33
+```
 
-(A this point, what is on the _stack_ is `[12378]`)
+(At this point, what is on the _stack_ is `[12345 33]`)
+
+USER:
+```
++
+```
+
+(At this point, what is on the _stack_ is `[12378]`)
 
 
 USER:
-> =
+```
+=
+```
 
 APPLICATION:
-> 12378
+```
+12378
+```
 
-(A this point, what is on the _stack_ is `[]`)
+(At this point, what is on the _stack_ is `[]`)
+
+USER:
+```
+/DIE
+```
+
+(At this point, the application exits.)
