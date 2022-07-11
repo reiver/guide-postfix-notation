@@ -32,7 +32,7 @@ If a plus-sign (i.e., “+”) is entered in the **REPL**, then your **applicati
 
 If an equal-sign (i.e., “=”) is entered in the **REPL**, then your **application** will try to _display_ the top value on the _stack_.
 
-If “/DIE” is entered is entered in the **REPL**, then your **application** will exit.
+If “/QUIT” is entered is entered in the **REPL**, then your **application** will exit.
 
 An example session might look like this:
 
@@ -106,7 +106,7 @@ APPLICATION:
 
 USER:
 ```
-/DIE
+/QUIT
 ```
 
 (At this point, the application exits.)
