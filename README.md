@@ -57,7 +57,7 @@ This is a guide on **postfix notation** and **stack machines**.
 
 ### Programming
 
-21. Postfix Notation Calculator №1
+21. [Postfix Notation Calculator №1](chapters/postcalc_1/README.md)
 
 ### Programming
 
